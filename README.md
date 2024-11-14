@@ -1,7 +1,7 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Basic Top Down Shooter >>
+# Basic Top Down Shooter
 ## CS110 Final Project  Fall 2024
 
 ## Team Members
